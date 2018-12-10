@@ -33,7 +33,4 @@
   end
 
   class TriangleError < StandardError
-    #def message
-      #"Triangle must have a size larger than 0."
-    #end
   end
